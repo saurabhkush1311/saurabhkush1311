@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Kushwaha</h1>
 <h3 align="center">A passionate Data Science Learner</h3>
 
-- 🔭 I’m currently working on **Data Science Projeects**
+- 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **Deep Learning,Sql,Power BI**
 
